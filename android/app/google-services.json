@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "827512797265",
+    "firebase_url": "https://school-courses-app-5805f.firebaseio.com",
+    "project_id": "school-courses-app-5805f",
+    "storage_bucket": "school-courses-app-5805f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827512797265:android:73854c00400b26175b2070",
+        "android_client_info": {
+          "package_name": "com.example.school_courses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827512797265-rgb24h52itqu6a22msbgevsgqm9t3es3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyKdREAuMDBd7txATDE0bKIbKoDlQdllg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827512797265-rgb24h52itqu6a22msbgevsgqm9t3es3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
